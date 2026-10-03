@@ -1,9 +1,12 @@
-import Link from 'next/link';
+import Link from "next/link";
+
 export default function StudentInfo() {
-    return (
-        <main>
-            <p>Deiter Edradan</p>
-            <Link href="https://github.com/DeiterEdradan/cprg306-assignments.git">Link to GitHub repository</Link>
-        </main>
-    );
+  return (
+    <div>
+      <p>Morolake Oniye</p>
+      <Link href="https://github.com/oniyemorolake-dev/cprg306-assignments">
+        GitHub Repository
+      </Link>
+    </div>
+  );
 }
