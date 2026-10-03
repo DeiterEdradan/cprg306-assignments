@@ -5,7 +5,7 @@ export default function Page() {
 
   return (
     <main>
-      <h1 className="text-3xl font-bold text-blue-600">Web 2 Demos</h1>
+      <h1 className="text-3xl font-bold text-blue-600">WebDev2 Group 6</h1>
       <p>Click one of the following links</p>
 
       {weeks.map((week) => (
