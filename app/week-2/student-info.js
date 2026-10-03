@@ -3,7 +3,7 @@ export default function StudentInfo() {
     return (
         <main>
             <p>Deiter Edradan</p>
-            <Link href="">Link to GitHub repository</Link>
+            <Link href="https://github.com/DeiterEdradan/cprg306-assignments.git">Link to GitHub repository</Link>
         </main>
     );
 }
