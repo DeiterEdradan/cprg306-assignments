@@ -9,7 +9,11 @@
     "lint": "eslint"
   },
   "dependencies": {
+<<<<<<< HEAD
     "next": "16.3.6",
+=======
+    "next": "16.3.8",
+>>>>>>> 62c3f3df4f96feeef15a07d036935e21b40c5398
     "react": "19.2.8",
     "react-dom": "19.2.8"
   },
@@ -17,7 +21,11 @@
     "@tailwindcss/postcss": "^4",
     "babel-plugin-react-compiler": "1.0.0",
     "eslint": "^9",
+<<<<<<< HEAD
     "eslint-config-next": "16.3.6",
+=======
+    "eslint-config-next": "16.3.8",
+>>>>>>> 62c3f3df4f96feeef15a07d036935e21b40c5398
     "tailwindcss": "^4"
   }
 }
